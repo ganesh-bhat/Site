@@ -1,9 +1,6 @@
-#Study references
-[Large scale system design](https://github.com/donnemartin/system-design-primer)
-
-[Coding interview university](https://github.com/jwasham/coding-interview-university)
-
-
+# Study references
+* [Large scale system design](https://github.com/donnemartin/system-design-primer)
+* [Coding interview university](https://github.com/jwasham/coding-interview-university)
 
 # Topics 
 1. REST API with JAX-RS
