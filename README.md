@@ -1,3 +1,5 @@
+Look at wiki for further details
+
 # Study references
 * [Large scale system design](https://github.com/donnemartin/system-design-primer)
 * [Coding interview university](https://github.com/jwasham/coding-interview-university)
